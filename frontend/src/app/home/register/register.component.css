@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 16px;
+}
+
+.card{
+    min-width: 150px;
+    max-width: 100%;
+    width: 100%;
+}
+
+.button{
+    width: 100%;
+    background-color: rgb(58, 35, 207);
+    color: snow;
+}
